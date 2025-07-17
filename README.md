@@ -1,1 +1,1 @@
-these arec++ programs !
+these are c++ programs !
